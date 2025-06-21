@@ -51,7 +51,7 @@ This project analyzes a dataset of global cyber operations and incidents. It per
 
 ---
 
-## 📈 Key Visuals
+## Key Visuals
 
 - Yearly & monthly attack count line plots
 - Global sponsor map
@@ -62,7 +62,7 @@ This project analyzes a dataset of global cyber operations and incidents. It per
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 ```bash
